@@ -1,7 +1,7 @@
-import Inspector from "vite-plugin-inspect";
 import { defineConfig } from "vite";
 import tailwindcss from "@tailwindcss/vite";
 import { sync } from "glob";
+import Inspector from "vite-plugin-inspect";
 
 const noAttr = () => {
   return {
