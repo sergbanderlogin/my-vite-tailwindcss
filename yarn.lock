@@ -337,6 +337,16 @@
     postcss "^8.4.41"
     tailwindcss "4.0.3"
 
+"@tailwindcss/vite@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/vite/-/vite-4.0.3.tgz#5c9a9ce59d97fe6330bb2e1520e6b793a4b38158"
+  integrity sha512-Qj6rSO+EvXnNDymloKZ11D54JJTnDrkRWJBzNHENDxjt0HtrCZJbSLIrcJ/WdaoU4othrel/oFqHpO/doxIS/Q==
+  dependencies:
+    "@tailwindcss/node" "^4.0.3"
+    "@tailwindcss/oxide" "^4.0.3"
+    lightningcss "^1.29.1"
+    tailwindcss "4.0.3"
+
 "@trysound/sax@0.2.0":
   version "0.2.0"
   resolved "https://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz"
